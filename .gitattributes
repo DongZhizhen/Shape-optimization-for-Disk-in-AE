@@ -1,0 +1,2 @@
+*.f linguist-language=fortran
+*.m linguist-language=matlab
