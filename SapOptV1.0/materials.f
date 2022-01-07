@@ -1,0 +1,4 @@
+nsel,all
+MP,EX,1,72000.0
+MP,PRXY,1,0.31
+MP,DENS,1,2.7E-009
