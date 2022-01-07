@@ -1,3 +1,15 @@
+% *****************************************************************************
+% 
+%  Main_13.m
+% 
+%  Description:
+%      This program is used to optimize the disk in aero engine.
+% 
+% 
+%  All the codes had been written by Zhizhen Dong in 2020-2021
+% 
+% *****************************************************************************
+
 clc;
 clear;
 close all;
