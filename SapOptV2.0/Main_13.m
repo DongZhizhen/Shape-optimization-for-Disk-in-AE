@@ -6,7 +6,7 @@
 %      This program is used to optimize the disk in aero engine.
 % 
 % 
-%  All the codes had been written by Zhizhen Dong in 2020-2021
+%  All the codes had been written by Zhizhen Dong in 2021
 % 
 % *****************************************************************************
 
